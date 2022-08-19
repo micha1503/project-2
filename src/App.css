@@ -21,18 +21,18 @@ color: white;
 }
 
 .validacion{
- width: 80%;
- color: red;
+ width: 90%;
+ color: gainsboro;
 margin: 0 auto;
 }
 
 .lista{
-  width: 80%;
+  width: 90%;
   margin: 50px auto 0;
 }
 
 .tarea{
-  font-size: 20px;
+  font-size: 25px;
   margin: 20px 0 15px 0;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr;
